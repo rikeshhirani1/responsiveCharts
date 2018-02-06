@@ -24,4 +24,4 @@ A small dashboard displaying Google Charts which incorporate responsive design.
 5. The application can be viewed in address `http://localhost:8080` or `http://localhost:3000/` depending on port you have access to
 
 ### Dashboard Example
-![alt text](https://github.com/rikeshhirani1/responsiveCharts/images/Example.png)
+![Dashboard](public/images/Example.png)
