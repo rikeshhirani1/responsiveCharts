@@ -1,0 +1,25 @@
+body {
+    padding: 10px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#mainTitle{
+    padding-left: 15px;
+}
+
+.container-fluid{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+#tileContent{
+    width: 100%;
+    border: 2px solid black;
+    height: 220px;
+    background-color: #333333;
+    margin-bottom: 10px;
+}
+
+#chartContainer{
+    height: 216px;
+}
